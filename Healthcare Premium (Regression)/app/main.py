@@ -33,9 +33,9 @@ FIELDS = {
 # --------------------------
 # Streamlit UI
 # --------------------------
-st.title("ML Model Tester")
+st.title("Healthcare Premium Prediction")
 
-st.subheader("Enter Input Data:")
+st.subheader("Enter your details:")
 
 user_input = {}
 
