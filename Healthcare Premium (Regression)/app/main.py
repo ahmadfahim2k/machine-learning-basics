@@ -31,16 +31,6 @@ FIELDS = {
 }
 
 # --------------------------
-# Load your model
-# --------------------------
-# @st.cache_resource
-# def load_model():
-#     with open("model.pkl", "rb") as f:
-#         return pickle.load(f)
-
-# model = load_model()
-
-# --------------------------
 # Streamlit UI
 # --------------------------
 st.title("ML Model Tester")
